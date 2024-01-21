@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 21.01.2024 09:00
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8
+WORDPRESS:	6.4.2
+PHP INFO:	7.4.5 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1024M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20231219_partnerstest_ddb4471049225cf76650_20240121085934_database.sql
+SQL FILE SIZE: 215.56KB (220733)
+SQL FILE TIME: 2024-01-21 09:00:05
+SQL RUNTIME: 2.51 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/OpenServer/domains/basics-test
+ARCHIVE FILE: 20231219_partnerstest_ddb4471049225cf76650_20240121085934_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	109.91MB
+STATS:	Dirs 739 | Files 5,024
+SQL ADDED: 20231219_partnerstest_ddb4471049225cf76650_20240121085934_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5763
+    [filename] => C:\OpenServer\domains\basics-test\wp-content\backups-dup-lite\tmp\20231219_partnerstest_ddb4471049225cf76650_20240121085934_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 5762
+[PHP ERR][NOTICE] MSG:ob_flush(): failed to flush buffer. No buffer to flush [CODE:8|FILE:C:\OpenServer\domains\basics-test\wp-content\plugins\duplicator\classes\utilities\class.u.php|LINE:173]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Archive->build, DUP_Zip::create, DUP_Util::fcgiFlush, ob_flush, DUP_Handler::error, DUP_Handler::getMessage
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 35.79MB
+ARCHIVE RUNTIME: 53.80 sec.
+MEMORY STACK: 8MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 215.56KB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 37.65MB 
+ОЖИДАЕМОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТОЛОГ: 5,763
+ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТАЛОГОВ: 5,762
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 64.90 sec.
+PEAK PHP MEMORY USED: 10MB
+DONE PROCESSING => 20231219_partnerstest 21.01.2024 09:01
+

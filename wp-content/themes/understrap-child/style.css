@@ -1,0 +1,23 @@
+/*
+Theme Name: Understrap Child
+Template: understrap
+*/
+
+.property-item small {
+  font-size: 0.75em;
+  margin-right: 0.5em;
+}
+.property-item strong {
+  font-size: 0.75em;
+}
+.property-item .img {
+  aspect-ratio: 1;
+  display: block;
+}
+.property-item .property-content .specs {
+  font-size: 16px;
+  flex-direction: column;
+}
+.city-item {
+  display: flex;
+}

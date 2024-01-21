@@ -1,0 +1,264 @@
+
+16-12-2023 09:42:32 [basics-test][info] Parent plugin start installation!
+16-12-2023 09:42:32 [basics-test][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.6
+16-12-2023 09:42:32 [basics-test][info] Parent plugin installation complete!
+-------------------------------
+16-12-2023 09:42:47 [basics-test][info] Try to create backup directory. Backup dir: (C:/OpenServer/domains/basics-test/wp-content/uploads/wio_backup)
+-------------------------------
+16-12-2023 09:46:04 [basics-test][info] START auto optimize cron job. Attachment: 18
+16-12-2023 09:46:04 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/8a5f9fd6-b42f-11e9-a1cf-02d82f4896e8.800x600.jpg) to a remote server (server_1).
+16-12-2023 09:46:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:46:05 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/8a5f9fd6-b42f-11e9-a1cf-02d82f4896e8.800x600-150x150.jpg) to a remote server (server_1).
+16-12-2023 09:46:05 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:46:06 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/8a5f9fd6-b42f-11e9-a1cf-02d82f4896e8.800x600-300x225.jpg) to a remote server (server_1).
+16-12-2023 09:46:06 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:46:07 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/8a5f9fd6-b42f-11e9-a1cf-02d82f4896e8.800x600-768x576.jpg) to a remote server (server_1).
+16-12-2023 09:46:08 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:46:08 [basics-test][debug] New queue created #1, attributes values: {"server_id":null,"object_id":18,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":284161,"final_size":277786,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":134179,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702709168}
+16-12-2023 09:46:08 [basics-test][info] END auto optimize cron job. Attachment: 18
+-------------------------------
+16-12-2023 09:49:24 [basics-test][info] START auto optimize cron job. Attachment: 20
+16-12-2023 09:49:24 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/gykzhf0a29djug3o254v-thumb.jpg) to a remote server (server_1).
+16-12-2023 09:49:25 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:49:25 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/gykzhf0a29djug3o254v-thumb-150x150.jpg) to a remote server (server_1).
+16-12-2023 09:49:26 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:49:26 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/gykzhf0a29djug3o254v-thumb-300x200.jpg) to a remote server (server_1).
+16-12-2023 09:49:26 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:49:27 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/gykzhf0a29djug3o254v-thumb-768x512.jpg) to a remote server (server_1).
+16-12-2023 09:49:27 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:49:28 [basics-test][debug] New queue created #2, attributes values: {"server_id":null,"object_id":20,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":149716,"final_size":143886,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":71806,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702709368}
+16-12-2023 09:49:28 [basics-test][info] END auto optimize cron job. Attachment: 20
+-------------------------------
+16-12-2023 09:53:07 [basics-test][info] START auto optimize cron job. Attachment: 22
+16-12-2023 09:53:07 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/maxresdefault_live.jpg) to a remote server (server_1).
+16-12-2023 09:53:09 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:53:10 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/maxresdefault_live-150x150.jpg) to a remote server (server_1).
+16-12-2023 09:53:10 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:53:10 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/maxresdefault_live-300x169.jpg) to a remote server (server_1).
+16-12-2023 09:53:11 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:53:11 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/maxresdefault_live-768x432.jpg) to a remote server (server_1).
+16-12-2023 09:53:12 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:53:12 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/maxresdefault_live-1024x576.jpg) to a remote server (server_1).
+16-12-2023 09:53:13 [basics-test][info] File successfully uploaded to remote server (server_1).
+16-12-2023 09:53:13 [basics-test][debug] New queue created #3, attributes values: {"server_id":null,"object_id":22,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":837239,"final_size":519728,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":608927,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702709593}
+16-12-2023 09:53:13 [basics-test][info] END auto optimize cron job. Attachment: 22
+-------------------------------
+17-12-2023 10:08:05 [basics-test][info] START auto optimize cron job. Attachment: 35
+17-12-2023 10:08:05 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/sdam-kvartiru-po-adresu-ul-ussuriyskaya-23_foto_largest.jpg) to a remote server (server_1).
+17-12-2023 10:08:06 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:08:06 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/sdam-kvartiru-po-adresu-ul-ussuriyskaya-23_foto_largest-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:08:07 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:08:07 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/sdam-kvartiru-po-adresu-ul-ussuriyskaya-23_foto_largest-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:08:08 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:08:08 [basics-test][debug] New queue created #4, attributes values: {"server_id":null,"object_id":35,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":52784,"final_size":51555,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":34381,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702796888}
+17-12-2023 10:08:08 [basics-test][info] END auto optimize cron job. Attachment: 35
+-------------------------------
+17-12-2023 10:12:56 [basics-test][info] START auto optimize cron job. Attachment: 42
+17-12-2023 10:12:56 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200.jpg) to a remote server (server_1).
+17-12-2023 10:12:57 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:12:58 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:12:58 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:12:58 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:12:59 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:12:59 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-768x512.jpg) to a remote server (server_1).
+17-12-2023 10:13:00 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:13:01 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1024x683.jpg) to a remote server (server_1).
+17-12-2023 10:13:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:13:02 [basics-test][debug] New queue created #5, attributes values: {"server_id":null,"object_id":42,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":397935,"final_size":387511,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":189691,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702797182}
+17-12-2023 10:13:02 [basics-test][info] END auto optimize cron job. Attachment: 42
+-------------------------------
+17-12-2023 10:16:05 [basics-test][info] START auto optimize cron job. Attachment: 43
+17-12-2023 10:16:05 [basics-test][warning] This format is disabled in the plugin settings: image/webp
+17-12-2023 10:16:05 [basics-test][info] END auto optimize cron job. Attachment: 43
+-------------------------------
+17-12-2023 10:18:12 [basics-test][info] START auto optimize cron job. Attachment: 44
+17-12-2023 10:18:12 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1679777892_na-dache-pro-p-foto-komnati-20-kv-m-s-mebelyu-59.jpg) to a remote server (server_1).
+17-12-2023 10:18:13 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:18:13 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1679777892_na-dache-pro-p-foto-komnati-20-kv-m-s-mebelyu-59-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:18:14 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:18:14 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1679777892_na-dache-pro-p-foto-komnati-20-kv-m-s-mebelyu-59-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:18:14 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:18:15 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1679777892_na-dache-pro-p-foto-komnati-20-kv-m-s-mebelyu-59-768x512.jpg) to a remote server (server_1).
+17-12-2023 10:18:15 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:18:16 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1679777892_na-dache-pro-p-foto-komnati-20-kv-m-s-mebelyu-59-1024x682.jpg) to a remote server (server_1).
+17-12-2023 10:18:17 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:18:17 [basics-test][debug] New queue created #6, attributes values: {"server_id":null,"object_id":44,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":257204,"final_size":256356,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":116151,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702797497}
+17-12-2023 10:18:17 [basics-test][info] END auto optimize cron job. Attachment: 44
+-------------------------------
+17-12-2023 10:21:18 [basics-test][info] START auto optimize cron job. Attachment: 45
+17-12-2023 10:21:18 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1.jpg) to a remote server (server_1).
+17-12-2023 10:21:19 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:21:20 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:21:20 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:21:21 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:21:21 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:21:22 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1-768x512.jpg) to a remote server (server_1).
+17-12-2023 10:21:22 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:21:23 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/scale_1200-1-1024x683.jpg) to a remote server (server_1).
+17-12-2023 10:21:24 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:21:25 [basics-test][debug] New queue created #7, attributes values: {"server_id":null,"object_id":45,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":416427,"final_size":408461,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":204872,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702797685}
+17-12-2023 10:21:25 [basics-test][info] END auto optimize cron job. Attachment: 45
+-------------------------------
+17-12-2023 10:25:01 [basics-test][info] START auto optimize cron job. Attachment: 48
+17-12-2023 10:25:01 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/145017115061272500_big.jpg) to a remote server (server_1).
+17-12-2023 10:25:03 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:25:03 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/145017115061272500_big-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:25:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:25:04 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/145017115061272500_big-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:25:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:25:05 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/145017115061272500_big-768x512.jpg) to a remote server (server_1).
+17-12-2023 10:25:06 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:25:06 [basics-test][debug] New queue created #8, attributes values: {"server_id":null,"object_id":48,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":283342,"final_size":219916,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":190822,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702797906}
+17-12-2023 10:25:06 [basics-test][info] END auto optimize cron job. Attachment: 48
+-------------------------------
+17-12-2023 10:32:46 [basics-test][info] START auto optimize cron job. Attachment: 49
+17-12-2023 10:32:46 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/b638a992d683f1cv.jpg) to a remote server (server_1).
+17-12-2023 10:32:47 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:32:47 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/b638a992d683f1cv-150x150.jpg) to a remote server (server_1).
+17-12-2023 10:32:48 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:32:48 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/b638a992d683f1cv-300x200.jpg) to a remote server (server_1).
+17-12-2023 10:32:49 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:32:49 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/b638a992d683f1cv-768x512.jpg) to a remote server (server_1).
+17-12-2023 10:32:50 [basics-test][info] File successfully uploaded to remote server (server_1).
+17-12-2023 10:32:53 [basics-test][debug] New queue created #9, attributes values: {"server_id":null,"object_id":49,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":152603,"final_size":152342,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":89490,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1702798373}
+17-12-2023 10:32:53 [basics-test][info] END auto optimize cron job. Attachment: 49
+-------------------------------
+19-12-2023 20:29:42 [basics-test][info] START auto optimize cron job. Attachment: 58
+19-12-2023 20:29:43 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/3-gorod-stolits.jpg) to a remote server (server_1).
+19-12-2023 20:29:44 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:29:44 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/3-gorod-stolits-150x150.jpg) to a remote server (server_1).
+19-12-2023 20:29:45 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:29:45 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/3-gorod-stolits-300x200.jpg) to a remote server (server_1).
+19-12-2023 20:29:46 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:29:47 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/3-gorod-stolits-768x512.jpg) to a remote server (server_1).
+19-12-2023 20:29:48 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:29:49 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/3-gorod-stolits-1024x683.jpg) to a remote server (server_1).
+19-12-2023 20:29:49 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:29:50 [basics-test][debug] New queue created #10, attributes values: {"server_id":null,"object_id":58,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":343565,"final_size":317296,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":137642,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703006990}
+19-12-2023 20:29:50 [basics-test][info] END auto optimize cron job. Attachment: 58
+-------------------------------
+19-12-2023 20:32:33 [basics-test][info] START auto optimize cron job. Attachment: 60
+19-12-2023 20:32:33 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1.jpg) to a remote server (server_1).
+19-12-2023 20:32:34 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:32:35 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-150x150.jpg) to a remote server (server_1).
+19-12-2023 20:32:36 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:32:36 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-300x230.jpg) to a remote server (server_1).
+19-12-2023 20:32:37 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:32:37 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-768x588.jpg) to a remote server (server_1).
+19-12-2023 20:32:38 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:32:39 [basics-test][debug] New queue created #11, attributes values: {"server_id":null,"object_id":60,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":271943,"final_size":241753,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":137358,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703007159}
+19-12-2023 20:32:39 [basics-test][info] END auto optimize cron job. Attachment: 60
+-------------------------------
+19-12-2023 20:46:46 [basics-test][info] START auto optimize cron job. Attachment: 62
+19-12-2023 20:46:46 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/dee5cf8a-89c9-461e-a358-3387957ab336.jpg) to a remote server (server_1).
+19-12-2023 20:46:47 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:46:49 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/dee5cf8a-89c9-461e-a358-3387957ab336-150x150.jpg) to a remote server (server_1).
+19-12-2023 20:46:49 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:46:49 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/dee5cf8a-89c9-461e-a358-3387957ab336-300x200.jpg) to a remote server (server_1).
+19-12-2023 20:46:50 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:46:50 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/dee5cf8a-89c9-461e-a358-3387957ab336-768x512.jpg) to a remote server (server_1).
+19-12-2023 20:46:51 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:46:52 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/dee5cf8a-89c9-461e-a358-3387957ab336-1024x683.jpg) to a remote server (server_1).
+19-12-2023 20:47:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 20:47:03 [basics-test][debug] New queue created #12, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":402917,"final_size":396810,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":202642,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703008023}
+19-12-2023 20:47:03 [basics-test][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+19-12-2023 21:06:56 [basics-test][info] START auto optimize cron job. Attachment: 64
+19-12-2023 21:06:56 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/87151c43556023.57f3e6a9cceee.jpg) to a remote server (server_1).
+19-12-2023 21:06:58 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:06:59 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/87151c43556023.57f3e6a9cceee-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:07:00 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:00 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/87151c43556023.57f3e6a9cceee-300x200.jpg) to a remote server (server_1).
+19-12-2023 21:07:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:02 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/87151c43556023.57f3e6a9cceee-768x512.jpg) to a remote server (server_1).
+19-12-2023 21:07:02 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:03 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/87151c43556023.57f3e6a9cceee-1024x683.jpg) to a remote server (server_1).
+19-12-2023 21:07:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:05 [basics-test][debug] New queue created #13, attributes values: {"server_id":null,"object_id":64,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":948189,"final_size":399499,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":574873,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703009225}
+19-12-2023 21:07:05 [basics-test][info] END auto optimize cron job. Attachment: 64
+-------------------------------
+19-12-2023 21:07:31 [basics-test][info] START auto optimize cron job. Attachment: 65
+19-12-2023 21:07:31 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-1.jpg) to a remote server (server_1).
+19-12-2023 21:07:32 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:33 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-1-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:07:33 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:34 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-1-300x230.jpg) to a remote server (server_1).
+19-12-2023 21:07:34 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:35 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/2300-1-1-768x588.jpg) to a remote server (server_1).
+19-12-2023 21:07:36 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:07:37 [basics-test][debug] New queue created #14, attributes values: {"server_id":null,"object_id":65,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":271943,"final_size":241753,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":137358,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703009257}
+19-12-2023 21:07:37 [basics-test][info] END auto optimize cron job. Attachment: 65
+-------------------------------
+19-12-2023 21:32:59 [basics-test][info] START auto optimize cron job. Attachment: 68
+19-12-2023 21:32:59 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25.jpg) to a remote server (server_1).
+19-12-2023 21:33:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:33:03 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:33:03 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:33:03 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-300x200.jpg) to a remote server (server_1).
+19-12-2023 21:33:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:33:04 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-768x512.jpg) to a remote server (server_1).
+19-12-2023 21:33:05 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:33:06 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1024x683.jpg) to a remote server (server_1).
+19-12-2023 21:33:07 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:33:08 [basics-test][debug] New queue created #15, attributes values: {"server_id":null,"object_id":68,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":544066,"final_size":522835,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":258267,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703010788}
+19-12-2023 21:33:08 [basics-test][info] END auto optimize cron job. Attachment: 68
+-------------------------------
+19-12-2023 21:39:23 [basics-test][info] START auto optimize cron job. Attachment: 70
+19-12-2023 21:39:23 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1.jpg) to a remote server (server_1).
+19-12-2023 21:39:24 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:39:26 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:39:26 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:39:27 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1-300x200.jpg) to a remote server (server_1).
+19-12-2023 21:39:27 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:39:27 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1-768x512.jpg) to a remote server (server_1).
+19-12-2023 21:39:28 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:39:29 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1660396913_25-kartinkin-net-p-elitnie-villi-v-sochi-krasivo-foto-25-1-1024x683.jpg) to a remote server (server_1).
+19-12-2023 21:39:31 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:39:32 [basics-test][debug] New queue created #16, attributes values: {"server_id":null,"object_id":70,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":544066,"final_size":522835,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":258267,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703011172}
+19-12-2023 21:39:32 [basics-test][info] END auto optimize cron job. Attachment: 70
+-------------------------------
+19-12-2023 21:43:57 [basics-test][info] START auto optimize cron job. Attachment: 72
+19-12-2023 21:43:57 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1661514785_25-celes-club-p-dom-v-sochi-krasivo-26.jpg) to a remote server (server_1).
+19-12-2023 21:43:58 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:44:00 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1661514785_25-celes-club-p-dom-v-sochi-krasivo-26-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:44:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:44:01 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1661514785_25-celes-club-p-dom-v-sochi-krasivo-26-300x200.jpg) to a remote server (server_1).
+19-12-2023 21:44:01 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:44:02 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1661514785_25-celes-club-p-dom-v-sochi-krasivo-26-768x512.jpg) to a remote server (server_1).
+19-12-2023 21:44:02 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:44:03 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1661514785_25-celes-club-p-dom-v-sochi-krasivo-26-1024x683.jpg) to a remote server (server_1).
+19-12-2023 21:44:04 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:44:06 [basics-test][debug] New queue created #17, attributes values: {"server_id":null,"object_id":72,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":420567,"final_size":409160,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":4,\"original_main_size\":197235,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703011446}
+19-12-2023 21:44:06 [basics-test][info] END auto optimize cron job. Attachment: 72
+-------------------------------
+19-12-2023 21:45:51 [basics-test][info] START auto optimize cron job. Attachment: 74
+19-12-2023 21:45:51 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1633845608_18-p-foto-chastnogo-doma-v-chastnom-sektore-fot-18.jpg) to a remote server (server_1).
+19-12-2023 21:45:52 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:45:54 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1633845608_18-p-foto-chastnogo-doma-v-chastnom-sektore-fot-18-150x150.jpg) to a remote server (server_1).
+19-12-2023 21:45:54 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:45:55 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1633845608_18-p-foto-chastnogo-doma-v-chastnom-sektore-fot-18-300x225.jpg) to a remote server (server_1).
+19-12-2023 21:45:55 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:45:56 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2023/12/1633845608_18-p-foto-chastnogo-doma-v-chastnom-sektore-fot-18-768x576.jpg) to a remote server (server_1).
+19-12-2023 21:45:57 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-12-2023 21:45:58 [basics-test][debug] New queue created #18, attributes values: {"server_id":null,"object_id":74,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":282538,"final_size":267759,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":147644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1703011558}
+19-12-2023 21:45:58 [basics-test][info] END auto optimize cron job. Attachment: 74
+-------------------------------
+19-01-2024 15:17:55 [basics-test][info] START auto optimize cron job. Attachment: 86
+19-01-2024 15:17:55 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2024/01/145017115061272500_big.jpg) to a remote server (server_1).
+19-01-2024 15:17:57 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-01-2024 15:17:57 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2024/01/145017115061272500_big-150x150.jpg) to a remote server (server_1).
+19-01-2024 15:17:58 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-01-2024 15:17:58 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2024/01/145017115061272500_big-300x200.jpg) to a remote server (server_1).
+19-01-2024 15:17:58 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-01-2024 15:17:59 [basics-test][info] Preparing to upload a file (C:/OpenServer/domains/basics-test/wp-content/uploads/2024/01/145017115061272500_big-768x512.jpg) to a remote server (server_1).
+19-01-2024 15:18:00 [basics-test][info] File successfully uploaded to remote server (server_1).
+19-01-2024 15:18:01 [basics-test][debug] New queue created #19, attributes values: {"server_id":null,"object_id":86,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":false,"original_size":222623,"final_size":220649,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":129071,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1705666681}
+19-01-2024 15:18:01 [basics-test][info] END auto optimize cron job. Attachment: 86
+-------------------------------
+19-01-2024 15:44:44 [basics-test][info] START auto optimize cron job. Attachment: 88
+19-01-2024 15:44:44 [basics-test][warning] This format is disabled in the plugin settings: image/webp
+19-01-2024 15:44:44 [basics-test][info] END auto optimize cron job. Attachment: 88
+-------------------------------
